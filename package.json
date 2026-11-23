@@ -1,0 +1,9 @@
+{
+  "name": "story-reader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first reader for local story text files",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
